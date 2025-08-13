@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">🎮 Jogador Profissional de Valorant Top 1 Radiant <br>📱Digital Influencer</p>
-
+<p align="left">🎮 Jogador Profissional de Valorant Top 1 Radiant <br>🏋️‍♂️Academia</p>
 ###
 
 <h2 align="left">I code with</h2>
